@@ -14,9 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hello! I'm a freshman from Shanghai Jiao Tong University. I'm learning coding now, but as you see I still don't have a project yet...That doesn't matter! Glad to meet you~  
-🌱 I’m currently learning CS61A online.  
-🤔 I’m looking for help with coding...  
-📫 How to reach me:zpw26001@sjtu.edu.cn  
-⚡ Fun fact: oh there isn't this kind of thing. But I hope I will have some soon:-)  
-Nice to meet you again!
