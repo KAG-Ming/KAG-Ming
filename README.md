@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+Welcome to my blog: https://blog.onirexus.com/
 <!--
 **KAG-Ming/KAG-Ming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
